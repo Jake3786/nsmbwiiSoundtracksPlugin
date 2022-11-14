@@ -1,1 +1,2 @@
 # nsmbwiiSoundtracksPlugin
+This is a Minecraft plugin that plays NSMBWII depending on the Minecraft biome, structure, or environment you are in (changes upon entering a new biome, structure, or environment). In order for this plugin to work, you must have this folder set as your resource pack. If you would like to use other textures along with this pack, extract the sounds folder out of the file and place it into the texture pack you want to use (where the sounds folder should be for that pack).
